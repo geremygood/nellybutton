@@ -1,0 +1,15 @@
+/*
+ *  ## The Styles For Nelly Button
+ */
+
+html{
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+#belly-button {
+    display: block;
+    position: relative;
+    margin: auto;
+}

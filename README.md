@@ -1,2 +1,5 @@
 # nellybutton
-Nelly + Belly Button
+
+The NellyButton Manifesto
+
+1.
